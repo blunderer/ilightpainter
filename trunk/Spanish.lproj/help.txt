@@ -1,0 +1,20 @@
+iLightPainter es una sencilla aplicación para aquellos que gustan de hacer la fotografía.
+
+Le permiten elegir entre cuatro modos diferentes:
+
+- Flash: Va estrobo <color> utilizando en <frecuencia>
+
+- Texto: El flash de cartas de <text> para un tiempo total de <period> seg
+
+- Arco iris: se mostrará un degradado de color que va de <color> a <color> en <period> seg
+
+- Color: se ilumina la pantalla con <color>
+
+Cuando está bien la configuración, pulse los botones de abajo para elegir el modo.
+Entonces usted apenas tiene que tocar la pantalla para empezar a pintor.
+Tocar de nuevo la pantalla volverá al menú principal.
+
+Con el fin de tener los mejores resultados, debería incrementar brillo en su panel de configuración.
+Tenga cuidado, cuando la aplicación está en modo de pintor, no hay modo de reposo se va a producir.
+
+Adelante!

@@ -1,0 +1,20 @@
+iLightPainter is a simple Application for those who like to make photography.
+
+It allow you to choose between four different modes:
+
+- Strobe: Will strobe using <color> at <frequency>
+
+- Text: Will flash letters from <text> for a total time of <period> sec
+
+- Rainbow: Will display a color gradient going from <color> to <color> in <period> sec
+
+- Color: Will illuminate screen with <color>
+
+When settings are ok, just press bottom buttons for choosing mode.
+Then you will just have to touch screen to begin painter.
+Touching screen again will go back to main menu.
+
+In order to have the best results, you should increase brigthness in your setting panel.
+Be carefull, when application is in painter mode, no sleep mode will occur.
+
+Enjoy!

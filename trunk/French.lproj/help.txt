@@ -1,0 +1,20 @@
+iLightPainter un petit programme fait pour les fondus de photograhie 
+
+Vous aurez le choix entre quatre modes :
+
+- Cligno : L'écran va clignotter à la fréquence <freq> et à la couleur <couleur>
+
+- Texte : l'écran va flasher avec les lettres de votre <texte> pendant un temps total de <periode> secondes
+
+- Arc-en-Ciel : Affiche un gradiant de couleur commençant avec <couleur> pendant <periode> sec
+
+- Couleur : Affiche une <couleur> fixe à l'écran
+
+Lorsque vos réglages sont prets, séléctionnez simplement le mode voulu parmi les boutons du bas.
+Il suffit alors de toucher l'écran pour démarrer la séquence.
+Touchez l'écran une deuxième fois pour revenir au menu.
+
+Pour de meilleurs résultats, il est conseillé d'augmenter la luminosité dans vos préférence systèmes.
+Attention, quand l'application est en mode pinceau, la veille est désactivée.
+
+A vos pinceau!
