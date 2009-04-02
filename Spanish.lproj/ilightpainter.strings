@@ -1,0 +1,8 @@
+period = "%0.1f Seg (o Hz para flash)";
+color = "COLOR";
+text = "TEXTO";
+press = "Toque la pantalla para empezar";
+btnstrobe = "flash";
+btncolor = "color";
+btnrainbow = "arco iris";
+btntext = "texto";

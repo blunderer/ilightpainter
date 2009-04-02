@@ -1,0 +1,8 @@
+period = "%0.1f Sec (ou Hz pour cligno)";
+color = "COULEUR";
+text = "TEXTE";
+press = "Toucher l'écran pour commencer";
+btnstrobe = "cligno";
+btncolor = "couleur";
+btnrainbow = "dégradé";
+btntext = "texte";
